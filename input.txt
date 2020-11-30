@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+int main(){
+    float __y12=-2.154+1;
+    int x[100];
+    -12.3+x;
+    x--;
+    "sfass";
+    $$;
+    if(y /=1 || x<=0 && x!=2)
+        cout << x;
+    cin >> x;
+    while(s>10){
+        do{
+            cout << 10;
+        }while(a==1.76);
+    }
+    return 0;
+}
